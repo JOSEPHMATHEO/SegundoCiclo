@@ -1,0 +1,48 @@
+
+Datos del 1 Estudiantes: 
+
+Cedula: 1105708745
+Nombres y Apellidos: Morales Bautista Luis Miguel
+Cual es su edad?: 20
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 2
+Esta satisfecho con la carrera?: si
+
+Datos del 2 Estudiantes: 
+
+Cedula: 1105708963
+Nombres y Apellidos: Solorzano Mora Scarlet Cecibel
+Cual es su edad?: 20
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 6
+Esta satisfecho con la carrera?: no
+
+Datos del 1 Estudiantes: 
+
+Cedula: 1105708745
+Nombres y Apellidos: Santiago Riofrio
+Cual es su edad?: 20
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 5
+Esta satisfecho con la carrera?: si
+
+Datos del 2 Estudiantes: 
+
+Cedula: 120578555
+Nombres y Apellidos: Kelvin Sarango
+Cual es su edad?: 18
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 5
+Esta satisfecho con la carrera?: si
+
+Datos del 1 Estudiantes: 
+
+Cedula: 1104661168
+Nombres y Apellidos: Santiago Ismael Riofrio Jaramillo 
+Cual es su edad?: 19
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 5
+Esta satisfecho con la carrera?: Si
+
+Datos del 2 Estudiantes: 
+
+Cedula: 1960751872
+Nombres y Apellidos: Kelvin Sneider Sarango Chalan 
+Cual es su edad?: 19
+Ingrese el numero de asignaturas que esta cursando el presente periodo: 5
+Esta satisfecho con la carrera?: No
